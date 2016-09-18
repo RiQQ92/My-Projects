@@ -1,0 +1,9 @@
+Pelin oletus painikkeet:
+Hyppy		- L
+Juoksu		- K
+Liikkuminen	- Nuoli näppäimet
+Pause/Asetukset - Esc
+
+Nämä voi myös vaihtaa asetukset valikosta.
+
+Peli tukee lähes täysin X-Box 360 peliohjainta.

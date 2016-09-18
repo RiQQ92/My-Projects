@@ -1,0 +1,323 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity 2D Platformer\2D_Platformer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\RiQ\Desktop\Haemus\Unity 2D Platformer\2D_Platformer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity 2D Platformer\2D_Platformer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\RiQ\Desktop\Haemus\Unity 2D Platformer\2D_Platformer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity 2D Platformer\2D_Platformer_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\RiQ\Desktop\Haemus\Unity 2D Platformer\2D_Platformer_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity 2D Platformer\2D_Platformer_Data\Managed\System.dll (this message is harmless)
+1920
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:165)
+GUI_OptionsMenu:Awake() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_OptionsMenu.cs:94)
+ 
+(Filename: C Line: 0)
+
+1080
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:166)
+GUI_OptionsMenu:Awake() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_OptionsMenu.cs:94)
+ 
+(Filename: C Line: 0)
+
+True
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:167)
+GUI_OptionsMenu:Awake() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_OptionsMenu.cs:94)
+ 
+(Filename: C Line: 0)
+
+1920
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:165)
+GUI_OptionsMenu:Awake() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_OptionsMenu.cs:94)
+ 
+(Filename: C Line: 0)
+
+1080
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:166)
+GUI_OptionsMenu:Awake() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_OptionsMenu.cs:94)
+ 
+(Filename: C Line: 0)
+
+True
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:167)
+GUI_OptionsMenu:Awake() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_OptionsMenu.cs:94)
+ 
+(Filename: C Line: 0)
+
+185.83.117.197
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:74)
+ 
+(Filename: D Line: 0)
+
+640x480
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+720x480
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+720x576
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+800x600
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1024x768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1152x864
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1176x664
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1280x720
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1280x768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1280x800
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1280x960
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1280x1024
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1360x768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1366x768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1600x900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1600x1024
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1680x1050
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1768x992
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1920x1080
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:95)
+ 
+(Filename: C Line: 0)
+
+1920
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:165)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:99)
+ 
+(Filename: C Line: 0)
+
+1080
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:166)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:99)
+ 
+(Filename: C Line: 0)
+
+True
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+publicStorage:getScreenSettings() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:167)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:99)
+ 
+(Filename: C Line: 0)
+
+1920
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:102)
+ 
+(Filename: C Line: 0)
+
+1080
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:102)
+ 
+(Filename: C Line: 0)
+
+True
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:102)
+ 
+(Filename: C Line: 0)
+
+1920
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:108)
+ 
+(Filename: C Line: 0)
+
+1080
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:109)
+ 
+(Filename: C Line: 0)
+
+True
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:110)
+ 
+(Filename: C Line: 0)
+
+Found resolution match!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\UnityEngineMonoBehaviour.cs:99)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:117)
+ 
+(Filename: C Line: 0)
+
+Save Screen Settings
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+publicStorage:setScreenSettings(Int32, Int32, Boolean) (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\publicStorage.cs:175)
+GUI_Script:Start() (at D:\Ohjelmat\Editor\Projects\2D_Platformer\Assets\Scripts\GUI\GUI_Script.cs:119)
+ 
+(Filename: D Line: 0)
+

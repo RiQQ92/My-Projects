@@ -1,0 +1,3 @@
+Liikkuminen tapahtuu hiirellä, pelaajan alus seuraa hiiren osoitinta.
+Pelaaja ampuu Space/Välilyönti painikkeella.
+Hiiren vasen painike pohjassa voi tähdätä liikkumisen sijaan.

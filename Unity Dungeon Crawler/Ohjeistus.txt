@@ -1,0 +1,1 @@
+Liikkuminen tapahtuu nuoli näppäimillä ja loput pelin toiminnoista klikkaamalla näytöllä olevia painikkeita.

@@ -1,0 +1,129 @@
+Mono path[0] = 'C:/Users/RiQ/Desktop/Haemus/Unity Dungeon Crawler/Dungeon Crawler_Data/Managed'
+Mono path[1] = 'C:/Users/RiQ/Desktop/Haemus/Unity Dungeon Crawler/Dungeon Crawler_Data/Mono'
+Mono config path = 'C:/Users/RiQ/Desktop/Haemus/Unity Dungeon Crawler/Dungeon Crawler_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/RiQ/Desktop/Haemus/Unity Dungeon Crawler/Dungeon Crawler_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55446
+Multi-casting "[IP] 185.83.117.197 [Port] 55446 [Flags] 2 [Guid] 2113293239 [EditorId] 730388107 [Version] 1048832 [Id] WindowsPlayer(RiQ-Machine) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [185.83.117.197:55446]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.059 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\RiQ\Desktop\Haemus\Unity Dungeon Crawler\Dungeon Crawler_Data\Managed\System.dll (this message is harmless)
+GridOffX : -26; GridOffZ : -8; GridEndX : 20; GridEndZ : 20; gridWidth : 24; gridHeight : 15
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:initGrid() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Grid.cs:103)
+Grid:Awake() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Grid.cs:46)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/Grid.cs Line: 103)
+
+_______X________________
+______XXX_______________
+_______XX________XXX____
+______XXX______X__X__XXX
+_______X____XXXXXXXXXX_X
+_X_X__XXX_XXX_X___X__XXX
+XXXXXXXXXXX___X___X_____
+_XXX__X_X_X__XXXX_X_____
+______X___XXXXXXX_XX____
+_____XXX____X_XXXXXXXX__
+_____XX_____X__XX_XXX___
+_____XXX____X__X__XXXX__
+______X_____XXXX_XXX____
+_________________X_XX___
+___________________X____
+
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Grid:initGrid() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Grid.cs:118)
+Grid:Awake() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Grid.cs:46)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/Grid.cs Line: 118)
+
+mana found
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerBehavior:Start() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Player\PlayerBehavior.cs:66)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/Player/PlayerBehavior.cs Line: 66)
+
+heal found
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerBehavior:Start() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Player\PlayerBehavior.cs:61)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/Player/PlayerBehavior.cs Line: 61)
+
+attack found
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerBehavior:Start() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Player\PlayerBehavior.cs:56)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/Player/PlayerBehavior.cs Line: 56)
+
+image found
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerBehavior:Start() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Player\PlayerBehavior.cs:78)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/Player/PlayerBehavior.cs Line: 78)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 57e8 -> priority: 1 
+  Thread -> id: 4dd8 -> priority: 1 
+Pathlength: 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PathFinder:findPath(Int32, Int32, Int32, Int32, Int32, Int32, Boolean[,]) (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\PathFinder.cs:58)
+PathFinder:findPath(Int32, Int32, Int32, Int32) (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\PathFinder.cs:22)
+PathFinder:findPath(Vector2, Vector2) (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\PathFinder.cs:17)
+<generatePath>c__Iterator1:MoveNext() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\EnemyMoveToTarget.cs:218)
+UnityEngine.MonoBehaviour:StartCoroutine(String, Object)
+EnemyMoveToTarget:move() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\EnemyMoveToTarget.cs:147)
+<AIaction>c__Iterator7:MoveNext() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Turn AI\EnemyTurnAI.cs:48)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviourBindings.gen.cs:62)
+Turn:StartMyTurn() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Turn.cs:22)
+TurnManager:NextTurn() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\TurnManager.cs:39)
+Turn:EndMyTurn() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Turn.cs:33)
+EnemyTurnAI:Update() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Turn AI\EnemyTurnAI.cs:24)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/PathFinder.cs Line: 58)
+
+------------------ Turn Ended -------------------
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+TurnManager:NextTurn() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\TurnManager.cs:33)
+Turn:EndMyTurn() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Turn.cs:33)
+EnemyTurnAI:Update() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Turn AI\EnemyTurnAI.cs:24)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/TurnManager.cs Line: 33)
+
+------------------ Turn Ended -------------------
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+TurnManager:NextTurn() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\TurnManager.cs:33)
+Turn:EndMyTurn() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Turn.cs:33)
+EnemyTurnAI:Update() (at D:\Ohjelmat\Unity5Projects\GridSys\Assets\Scripts\Turn AI\EnemyTurnAI.cs:24)
+ 
+(Filename: D:/Ohjelmat/Unity5Projects/GridSys/Assets/Scripts/TurnManager.cs Line: 33)
+
